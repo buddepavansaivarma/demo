@@ -1,0 +1,15 @@
+C:\Users\welcome\Desktop\newapp\bin\Debug\netcoreapp3.1\newapp.exe
+C:\Users\welcome\Desktop\newapp\bin\Debug\netcoreapp3.1\newapp.deps.json
+C:\Users\welcome\Desktop\newapp\bin\Debug\netcoreapp3.1\newapp.runtimeconfig.json
+C:\Users\welcome\Desktop\newapp\bin\Debug\netcoreapp3.1\newapp.runtimeconfig.dev.json
+C:\Users\welcome\Desktop\newapp\bin\Debug\netcoreapp3.1\newapp.dll
+C:\Users\welcome\Desktop\newapp\bin\Debug\netcoreapp3.1\newapp.pdb
+C:\Users\welcome\Desktop\newapp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\welcome\Desktop\newapp\obj\Debug\netcoreapp3.1\newapp.csprojAssemblyReference.cache
+C:\Users\welcome\Desktop\newapp\obj\Debug\netcoreapp3.1\newapp.AssemblyInfoInputs.cache
+C:\Users\welcome\Desktop\newapp\obj\Debug\netcoreapp3.1\newapp.AssemblyInfo.cs
+C:\Users\welcome\Desktop\newapp\obj\Debug\netcoreapp3.1\newapp.csproj.CoreCompileInputs.cache
+C:\Users\welcome\Desktop\newapp\obj\Debug\netcoreapp3.1\newapp.csproj.CopyComplete
+C:\Users\welcome\Desktop\newapp\obj\Debug\netcoreapp3.1\newapp.dll
+C:\Users\welcome\Desktop\newapp\obj\Debug\netcoreapp3.1\newapp.pdb
+C:\Users\welcome\Desktop\newapp\obj\Debug\netcoreapp3.1\newapp.genruntimeconfig.cache
